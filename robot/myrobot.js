@@ -14,7 +14,7 @@
       this.turn_left(90);
     };
     prototype.onHit = function(){
-      this.yell("Oops!");
+      this.yell("Oops!a");
     };
     prototype.onEnemySpot = function(){
       this.yell("Fire!");
